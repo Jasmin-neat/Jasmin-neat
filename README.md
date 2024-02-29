@@ -10,7 +10,6 @@
 <img align="left" alt="Django" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />
 <img align="left" alt="Django" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 <img align="left" alt="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
-<img align="left" alt="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/rubyonrails/rubyonrails.png" />
 <img align="left" alt="AWS" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="Firebase" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
