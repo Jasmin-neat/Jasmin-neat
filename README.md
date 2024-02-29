@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Jasmin-neat/Jasmin-neat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
@@ -22,6 +20,10 @@
 <img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
 <img align="left" alt="DynamoDB" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/amazon-dynamodb-1869449-1583149.png" />
 <img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+
+
+<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
