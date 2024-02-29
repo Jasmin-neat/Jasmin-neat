@@ -1,5 +1,6 @@
 ### Hi there 👋
-**Jasmin-neat/Jasmin-neat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
